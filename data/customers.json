@@ -1,0 +1,36 @@
+[{
+"id": 1,
+"name": "Nadia Rahmani",
+"city": "Marrakech",
+"active": true
+},
+{
+"id": 2,
+"name": "LINA SABIRI",
+"city": "Fes",
+"active": true
+},
+{
+"id": 3,
+"name": "Nadia Cherkaoui",
+"city": "casablanca",
+"active": true
+},
+{
+"id": 4,
+"name": "youssef Hytam",
+"city": "chichwa",
+"active": true
+},{
+"id": 5,
+"name": "HODA BEN-aali",
+"city": "tata",
+"active": true
+},
+{
+"id": 6,
+"name": "AYA TALBI",
+"city": "Marrakech",
+"active": true
+}
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 10,
+    "name": "Espresso",
+    "category": "Café Chaud",
+    "price": 25,
+    "stock": 30
+  },
+  {
+    "id": 11,
+    "name": "Cappuccino",
+    "category": "Café Chaud",
+    "price": 35,
+    "stock": 20
+  },
+  {
+    "id": 12,
+    "name": "Café Américain",
+    "category": "Café Chaud",
+    "price": 30,
+    "stock": 15
+  },
+   {
+    "id": 13,
+    "name": "Café Latte",
+    "category": "Café Chaud",
+    "price": 25,
+    "stock": 15
+  },
+   {
+    "id": 14,
+    "name": "Café Mocha",
+    "category": "Café Chaud",
+    "price": 35,
+    "stock": 10
+  },
+ {
+    "id": 15,
+    "name": "Café glacé",
+    "category": "Café froid",
+    "price": 40,
+    "stock": 20
+  }
+]
