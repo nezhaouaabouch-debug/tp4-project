@@ -2,10 +2,10 @@ async function loadJson(path) {
   const response = await fetch(path);
 
   if (!response.ok) {
-    throw new Error(`Impossible de charger ${path}: ${response.status}`);
+    throw new Error(`Erreur HTTP ${response.status} lors du chargement de ${path}`);
   }
 
-  return await response.json();
+  return response.json();
 }
 
 export async function loadData() {
@@ -17,3 +17,4 @@ export async function loadData() {
 
   return { customers, products, orders };
 }
+

@@ -4,5 +4,5 @@ export const state = {
   orders: [], 
   search: "", 
   statusFilter: "", 
-  categoryFilter: "" 
+  categoryFilter: ""
 }
